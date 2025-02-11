@@ -1,7 +1,7 @@
 # Breakpoint
 ## How to insert Breakpoint?
 ### 1th way
-1. Click with the left mouse at the gray line at left of line number.
+1. Left click at the gray line at left of line number.
 
 For example, 
 
@@ -11,7 +11,7 @@ It will insert breakpoint in 15th line.
 
 ### 2th way
 1. Move the cursor to the line you want.
-2. Click with the right mouse.
+2. Right click.
 3. Select `breakpoint`->`insert breakpoint`
 
 For example, 
