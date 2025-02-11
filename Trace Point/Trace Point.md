@@ -3,8 +3,8 @@
 ### 1th way
 
 1. Move the cursor to the line you want.
-2. Click with the right mouse.
-3. Select `breakpoint`\->`insert breakpoint`
+2. Right click
+3. Select `breakpoint`->`insert breakpoint`
 
 For example,
 
