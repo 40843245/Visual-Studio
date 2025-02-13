@@ -20,13 +20,15 @@ Shown as follows.
 > [!CAUTION]
 > recheck the name (for `.edmx` file), since it does not make any sense to rename it after it is created.
 
+![image](https://github.com/user-attachments/assets/c52e35fb-204e-4b8c-b6ff-07aca61ce214)
+
 4. select `EF designer from database`.
 
 then click `Next`
 
 Shown as follows.
 
-![image](https://github.com/user-attachments/assets/c52e35fb-204e-4b8c-b6ff-07aca61ce214)
+![image](https://github.com/user-attachments/assets/1b4979fe-bc96-4998-8e21-cebd26e6b940)
 
 5. select the data source from drop-down list
 
@@ -35,8 +37,6 @@ and determine to contain sensitive data in [connection string](https://learn.mic
 untick the checkbox (將Web.Config中的連接設定儲存為)
 
 then click `Next`.
-
-![image](https://github.com/user-attachments/assets/1b4979fe-bc96-4998-8e21-cebd26e6b940)
 
 ![image](https://github.com/user-attachments/assets/c6983bdd-f35f-4c67-9481-5b6a320c246a)
 
