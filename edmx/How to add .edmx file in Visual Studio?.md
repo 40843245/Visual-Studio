@@ -59,3 +59,5 @@ then click `Next`.
 ## troubleshoot
 ### Entity Data Model Wizard in VS failed to connect database
 see [Visual Studio Entity Data Wizard, Crashes when Trying to Connect to Oracle](https://stackoverflow.com/questions/50911394/visual-studio-entity-data-wizard-crashes-when-trying-to-connect-to-oracle)
+
+see [entity-framework -- ADO.NET Entity Data Model error](https://learn.microsoft.com/en-us/answers/questions/807003/entity-framework-ado-net-entity-data-model-error)
