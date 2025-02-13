@@ -9,7 +9,7 @@ where
    
 <img width="515" alt="image" src="https://github.com/user-attachments/assets/66e35508-8bd9-4765-b2f6-3ea374df8db3" />
 
-3.
+3. select 
 ![image](https://github.com/user-attachments/assets/fe3633dc-2450-4324-83d9-4a4a533ef39a)
 
 ![image](https://github.com/user-attachments/assets/c52e35fb-204e-4b8c-b6ff-07aca61ce214)
