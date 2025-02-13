@@ -5,17 +5,16 @@ where
 
 `<your-project>` is your project that you want (`.edmx` file will be built under this directory).
 
+<img width="515" alt="image" src="https://github.com/user-attachments/assets/66e35508-8bd9-4765-b2f6-3ea374df8db3" />
+
 2. right click on that directory, then select `add`-> `add new item`
    
-<img width="515" alt="image" src="https://github.com/user-attachments/assets/66e35508-8bd9-4765-b2f6-3ea374df8db3" />
 
 3. select ADO.NET entity data model (in `Visual C#` -> `Web` -> `Data`)
 
 and fill your name then click `Next`.
 
 Shown as follows.
-
-![image](https://github.com/user-attachments/assets/fe3633dc-2450-4324-83d9-4a4a533ef39a)
 
 > [!CAUTION]
 > recheck the name (for `.edmx` file), since it does not make any sense to rename it after it is created.
