@@ -1,4 +1,20 @@
 # How to add .edmx file in Visual Studio?
+> [!CAUTION]
+> If you expect that Entity Wizard connects data from external data source (for example, external database)
+>
+> You must connect the database successfully before follow these steps. Otherwise, you won't see the external source as an option in the drop-down list (stated in step 5)
+>
+> A wrong example that happen on me:
+>
+> I forgot to connect the database (through MSSM (which stands for Microsoft SQL Server Management)).
+>
+> <img width="277" alt="image" src="https://github.com/user-attachments/assets/a62a17ee-01b3-45b1-97f1-b944b20f120f" />
+> 
+> Then in step 5, the available option is
+>
+> ![image](https://github.com/user-attachments/assets/c6983bdd-f35f-4c67-9481-5b6a320c246a)
+ 
+
 1. In solution explorer tab, select `<your-project>` -> `Models` directory.
 
 where 
@@ -30,13 +46,12 @@ Shown as follows.
 
 ![image](https://github.com/user-attachments/assets/1b4979fe-bc96-4998-8e21-cebd26e6b940)
 
-5. select the data source from drop-down list
+5. select the data from data source (such as external database) that Entity Wizard connects to (from drop-down list)
 
-and determine to contain sensitive data in [connection string](https://learn.microsoft.com/en-us/aspnet/mvc/overview/getting-started/introduction/creating-a-connection-string) (type is radio button group).
+and determine to contain sensitive data in [connection string](https://learn.microsoft.com/en-us/aspnet/mvc/overview/getting-started/introduction/creating-a-connection-string) (from radio button group).
 
 untick the checkbox (將Web.Config中的連接設定儲存為)
 
 then click `Next`.
 
-![image](https://github.com/user-attachments/assets/c6983bdd-f35f-4c67-9481-5b6a320c246a)
-
+![image](https://github.com/user-attachments/assets/e524e0b0-14df-45d2-8e18-71d91480cf6c)
