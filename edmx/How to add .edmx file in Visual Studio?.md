@@ -1,6 +1,6 @@
 # How to add .edmx file in Visual Studio?
 > [!CAUTION]
-> If you expect that Entity Wizard connects data from external data source (for example, external database)
+> If you expect that Entity Data Model Wizard connects data from external data source (for example, external database)
 >
 > You must connect the database successfully before follow these steps. Otherwise, you won't see the external source as an option in the drop-down list (stated in step 5)
 >
@@ -46,7 +46,7 @@ Shown as follows.
 
 ![image](https://github.com/user-attachments/assets/1b4979fe-bc96-4998-8e21-cebd26e6b940)
 
-5. select the data from data source (such as external database) that Entity Wizard connects to (from drop-down list)
+5. select the data from data source (such as external database) that Entity Data Model Wizard connects to (from drop-down list)
 
 and determine to contain sensitive data in [connection string](https://learn.microsoft.com/en-us/aspnet/mvc/overview/getting-started/introduction/creating-a-connection-string) (from radio button group).
 
