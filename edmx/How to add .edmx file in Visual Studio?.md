@@ -56,6 +56,9 @@ then click `Next`.
 
 ![image](https://github.com/user-attachments/assets/e524e0b0-14df-45d2-8e18-71d91480cf6c)
 
+## demo
+See [How to create .edmx file in VS IDE?](https://youtu.be/tpkRdFHZRBI)
+
 ## troubleshoot
 ### Entity Data Model Wizard in VS failed to connect database
 see [Visual Studio Entity Data Wizard, Crashes when Trying to Connect to Oracle](https://stackoverflow.com/questions/50911394/visual-studio-entity-data-wizard-crashes-when-trying-to-connect-to-oracle)
