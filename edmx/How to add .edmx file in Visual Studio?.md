@@ -56,6 +56,12 @@ then click `Next`.
 
 ![image](https://github.com/user-attachments/assets/e524e0b0-14df-45d2-8e18-71d91480cf6c)
 
+6. wait for a while.
+7. restart the VS to make the change effect.
+
+> [!WARNING]
+> Since VS IDE does not support hot reloading, please save it and restart the VS to make the change effect. 
+
 ## demo
 See [How to create .edmx file in VS IDE?](https://youtu.be/tpkRdFHZRBI)
 
